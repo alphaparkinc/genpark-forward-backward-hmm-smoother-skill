@@ -1,0 +1,13 @@
+{
+  "name": "genpark-forward-backward-hmm-smoother-skill",
+  "version": "1.0.0",
+  "description": "Forward-Backward Baum-Welch smoothing algorithm computing exact marginal posterior distributions of all hidden states given complete observation sequences.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "forward-backward",
+    "hmm-smoothing",
+    "hidden-markov-model",
+    "probabilistic-inference"
+  ]
+}
